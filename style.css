@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 40px;
+}
+.carousel-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+
+}
+
+.carousel-item{
+    padding: 20px 30px;
+
+}
+.price-color{
+    color: rgb(6, 35, 204);
+}
+.button-color{
+    color: darkblue;
+    background-color: rgb(236, 8, 8);
+}
