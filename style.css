@@ -27,3 +27,16 @@
     width: 100px;
 }
 
+.design-card{
+  
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    
+}
+
+.subscribe{
+    background-color: rgb(168, 140, 61);
+    height: 300px;
+    border-radius: 10px;
+}
+
